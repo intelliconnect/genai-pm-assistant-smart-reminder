@@ -93,7 +93,8 @@ After saving the flow make sure you turn the flow on
 - The flow is set(trigger) to run between 4 - 4:30 PM IST, Monday to Friday. You can change that in the trigger
 
 ## [EmployeesGroup] - Data Sample 
-![image](https://github.com/user-attachments/assets/e766327d-786d-4a6a-9889-a62e1160526a)
+
+![image](https://github.com/user-attachments/assets/82070555-2235-467b-95fa-a78c78ffa878)
 
 ## [Output snapshots] Reminder message
 

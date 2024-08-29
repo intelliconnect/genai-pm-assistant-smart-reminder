@@ -1,9 +1,9 @@
 ## About GenAI SmartReminder PM Assistant
 Redefining the future of work with GenAI and Automation!
 
-This custom intelligent application sends dynamic reminders to team members, ensuring essential tasks like code check-ins, updates, and follow-ups are completed without a hitch. The toole enables PM to make daily project management tasks seamless and stress free
+This custom intelligent application sends dynamic reminders to team members, ensuring essential tasks like code check-ins, updates, and follow-ups are completed without a hitch. The tool enables PM to make daily project management tasks seamless and stress-free
 
-By using Generative AI, each reminder is thoughtfully rephrased, keeping the messages engaging and preventing them from becoming repetitive. This approach is making both managers and team members happier—managers save valuable time, and team members appreciate the gentle, non-intrusive prompts.
+By using Generative AI, each reminder is thoughtfully rephrased, keeping the messages engaging and preventing them from becoming repetitive. This approach makes both managers and team members happier—managers save valuable time, and team members appreciate the gentle, non-intrusive prompts.
 
 ### Pre-requisites
 - A Power Automate Premium License
@@ -92,3 +92,15 @@ After saving the flow make sure you turn the flow on
 - You can customize your prompts according to your requirements
 - The flow is set(trigger) to run between 4 - 4:30 PM IST, Monday to Friday. You can change that in the trigger
 
+## [EmployeesGroup] - Data Sample 
+![image](https://github.com/user-attachments/assets/e766327d-786d-4a6a-9889-a62e1160526a)
+
+## [Output snapshots] Reminder message
+
+Android Teams App
+
+![image](https://github.com/user-attachments/assets/3606c370-b18e-4288-9aa3-81ec9ea0c0ea)
+
+Desktop Teams App
+
+![image](https://github.com/user-attachments/assets/aecd2e28-572c-4ea4-8c48-ff9ca05f33ff)

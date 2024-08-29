@@ -1,3 +1,9 @@
+## About GenAI SmartReminder PM Assistant
+Redefining the future of work with GenAI and Automation!
+
+This custom intelligent application sends dynamic reminders to team members, ensuring essential tasks like code check-ins, updates, and follow-ups are completed without a hitch. The toole enables PM to make daily project management tasks seamless and stress free
+
+By using Generative AI, each reminder is thoughtfully rephrased, keeping the messages engaging and preventing them from becoming repetitive. This approach is making both managers and team members happier—managers save valuable time, and team members appreciate the gentle, non-intrusive prompts.
 
 ### Pre-requisites
 - A Power Automate Premium License
